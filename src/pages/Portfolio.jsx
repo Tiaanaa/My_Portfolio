@@ -26,7 +26,7 @@ const Portfolio = () => {
     {
       title: 'Social Links Profile',
       description: 'A social links profile page built with HTML and CSS',
-      image: './assets/socialLinkImage.PNG',
+      image: 'assets/socialLinkImage.PNG',
       link: 'https://social-link-profiles-plum.vercel.app/#'
     }
   ];
