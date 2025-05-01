@@ -30,7 +30,7 @@ const Hero = () => {
           {/* Image Section */}
           
             <img
-              src="/src/assets/IMG_9083vista_1.jpg"
+              src="/assets/IMG_9083vista_1.jpg"
               alt="Omonola Christiana - Frontend Developer and Fashion Designer"
               className="rounded-full w-64 h-64 md:w-96 md:h-96 object-cover shadow-2xl "
             />
